@@ -59,7 +59,7 @@ Welcome to **Interview AI**, your ultimate platform to practice and master techn
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/khanalisha/Interview-Platform.git
+  git clone https://github.com/Nitinpratap22061/Ai-Interview-System.git
 Install dependencies
 
 cd Interview-Platform
