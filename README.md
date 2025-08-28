@@ -4,7 +4,7 @@
 
 Welcome to **Interview AI**, your ultimate platform to practice and master technical interviews in **Java, JavaScript, Node.js**, and the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. Hone your coding skills, get instant feedback, and prepare for real-world interviews in an interactive way!  
 
-[🔗 Try the live demo](https://65cc833d0cc2ec8ac4d3cf80--delicate-chimera-0f4997.netlify.app/)
+
 
 ![Interview AI Screenshot](https://github.com/khanalisha/Interview-Platform/assets/123863034/971058cf-9bdd-4724-a37e-481c189f018d)
 
